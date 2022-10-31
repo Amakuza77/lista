@@ -1,163 +1,169 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Rick and Morty (1080p)
+#EXTINF:300,stream.m3u8
+#EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Rick and Morty (1080p)
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1,21 - 252 ComedyC
+#EXTINF:11,21 - 252 ComedyC
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04a/index.m3u8
-#EXTINF:-1,23 - 290 CartoonNetwork
+#EXTINF:0,23 - 290 CartoonNetwork
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03k/index.m3u8
-#EXTINF:-1,25-292 Discovery kids
+#EXTINF:0,25-292 Discovery kids
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a015/index.m3u8
-#EXTINF:-1,27-286 NICKELODEON
+#EXTINF:0,27-286 NICKELODEON
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a014/index.m3u8
-#EXTINF:-1,29-236 DH&H
+#EXTINF:0,29-236 DH&H
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03g/index.m3u8
-#EXTINF:-1,30-214 TNTSE
+#EXTINF:0,30-214 TNTSE
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00m/index.m3u8
-#EXTINF:-1,31-370 TNT
+#EXTINF:0,31-370 TNT
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a018/index.m3u8
-#EXTINF:-1,208 SONY
+#EXTINF:0,208 SONY
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a002/index.m3u8
-#EXTINF:-1,1
+#EXTINF:0,1
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08o/index.m3u8
-#EXTINF:-1,101 Uno
-http://190.61.102.67:31589/play/a04p/index.m3u8
-#EXTINF:-1,102 CANAL DE LAS ESTRELLAS
-http://190.61.102.67:31589/play/a00g/index.m3u8
-#EXTINF:-1,103 Imagen
-http://190.61.102.67:31589/play/a00h/index.m3u8
-#EXTINF:-1,105 Cinco
-http://190.61.102.67:31589/play/a038/index.m3u8
-#EXTINF:-1,106 Multimedios
-http://190.61.102.67:31589/play/a039/index.m3u8
-#EXTINF:-1,107 Siete
-http://190.61.102.67:31589/play/a00i/index.m3u8
-#EXTINF:-1,111 ONCE
-http://190.61.102.67:31589/play/a03a/index.m3u8
-#EXTINF:-1,114 Canal 14
-http://190.61.102.67:31589/play/a044/index.m3u8
-#EXTINF:-1,120 UNAM
-http://190.61.102.67:31589/play/a045/index.m3u8
-#EXTINF:-1,122 Canal22
-http://190.61.102.67:31589/play/a00j/index.m3u8
-#EXTINF:-1,145 Congreso
-http://190.61.102.67:31589/play/a046/index.m3u8
-#EXTINF:-1,151 CV Shoping
+#EXTINF:0,151 CV Shoping
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a011/index.m3u8
-#EXTINF:-1,152 MVSTV
-http://190.61.102.67:31589/play/a03b/index.m3u8
-#EXTINF:-1,154 EXE TV
-http://190.61.102.67:31589/play/a06e/index.m3u8
-#EXTINF:-1,158 MC
+#EXTINF:11,158 MC
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01d/index.m3u8
-#EXTINF:-1,160 MultiPremiere
+#EXTINF:11,160 MultiPremiere
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01e/index.m3u8
-#EXTINF:-1,162 CINELATINO
+#EXTINF:11,162 CINELATINO
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a05v/index.m3u8
-#EXTINF:-1,206 Universal
+#EXTINF:11,206 Universal
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03d/index.m3u8
-#EXTINF:-1,210 WB
+#EXTINF:11,210 WB
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01f/index.m3u8
-#EXTINF:-1,222 AXN
+#EXTINF:0,222 AXN
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a05y/index.m3u8
-#EXTINF:-1,224 FX
+#EXTINF:0,224 FX
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a05z/index.m3u8
-#EXTINF:-1,226 Space MX
+#EXTINF:0,226 Space MX
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04x/index.m3u8
-#EXTINF:-1,230 A&E
+#EXTINF:0,230 A&E
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03f/index.m3u8
-#EXTINF:-1,234 Investigation Discovery La
+#EXTINF:0,234 Investigation Discovery La
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04y/index.m3u8
-#EXTINF:-1,240 TLC
+#EXTINF:0,240 TLC
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03h/index.m3u8
-#EXTINF:-1,242 Lifetime
+#EXTINF:0,242 Lifetime
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01i/index.m3u8
-#EXTINF:-1,246 HOLA
+#EXTINF:11,246 HOLA
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00n/index.m3u8
-#EXTINF:-1,248 E!
+#EXTINF:11,248 E!
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03i/index.m3u8
-#EXTINF:-1,250 TBS
+#EXTINF:11,250 TBS
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00o/index.m3u8
-#EXTINF:-1,264 EXETV
+#EXTINF:11,264 EXETV
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00p/index.m3u8
-#EXTINF:-1,266 MejorTV
+#EXTINF:11,266 MejorTV
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00q/index.m3u8
-#EXTINF:-1,268 VideRola
+#EXTINF:11,268 VideRola
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04c/index.m3u8
-#EXTINF:-1,276 TELER
+#EXTINF:11,276 TELER
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03u/index.m3u8
-#EXTINF:-1,280 OnceKids
+#EXTINF:0,280 OnceKids
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04f/index.m3u8
-#EXTINF:-1,282 DisneyJR
+#EXTINF:0,282 DisneyJR
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03j/index.m3u8
-#EXTINF:-1,285 - Nick Music
+#EXTINF:0,285 - Nick Music
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00r/index.m3u8
-#EXTINF:-1,288 EXE TV
+#EXTINF:11,288 EXE TV
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00s/index.m3u8
-#EXTINF:-1,304 AprendeTV2
-http://190.61.102.67:31589/play/a04h/index.m3u8
-#EXTINF:-1,306 IngenioTV
+#EXTINF:0,306 IngenioTV
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04i/index.m3u8
-#EXTINF:-1,308 Discovery
+#EXTINF:0,308 Discovery
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03x/index.m3u8
-#EXTINF:-1,312 NatGeo
+#EXTINF:0,312 NatGeo
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01l/index.m3u8
-#EXTINF:-1,318 History
+#EXTINF:0,318 History
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a017/index.m3u8
-#EXTINF:-1,320 History2
+#EXTINF:11,320 History2
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a00v/index.m3u8
-#EXTINF:-1,322 Arts
-http://190.61.102.67:31589/play/a04j/index.m3u8
-#EXTINF:-1,336 Claro Sport
+#EXTINF:11,336 Claro Sport
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a053/index.m3u8
-#EXTINF:-1,338 ESPN 2
+#EXTINF:0,338 ESPN 2
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a063/index.m3u8
-#EXTINF:-1,342 ESPN
+#EXTINF:0,342 ESPN
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a064/index.m3u8
-#EXTINF:-1,344 ESPN3
+#EXTINF:0,344 ESPN3
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a03n/index.m3u8
-#EXTINF:-1,350 CNNE
-http://190.61.102.67:31589/play/a00x/index.m3u8
-#EXTINF:-1,353 RT
+#EXTINF:11,353 RT
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01n/index.m3u8
-#EXTINF:-1,356 Milenio
-http://190.61.102.67:31589/play/a00y/index.m3u8
-#EXTINF:-1,358 TVC
+#EXTINF:0,358 TVC
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04m/index.m3u8
-#EXTINF:-1,360 Judicial
-http://190.61.102.67:31589/play/a04n/index.m3u8
-#EXTINF:-1,372 MC
+#EXTINF:0,372 MC
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01o/index.m3u8
-#EXTINF:-1,378 CineCanal O
+#EXTINF:11,378 CineCanal O
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04q/index.m3u8
-#EXTINF:-1,384 Films
+#EXTINF:0,384 Films
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08i/index.m3u8
-#EXTINF:-1,386 StudioUniversal
+#EXTINF:0,386 StudioUniversal
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a04o/index.m3u8
-#EXTINF:-1,388 Paramount
+#EXTINF:11,388 Paramount
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a01s/index.m3u8
-#EXTINF:-1,AGROTENDENCIA
-http://190.61.102.67:31589/play/a08b/index.m3u8
-#EXTINF:-1,CTV CANAL
+#EXTINF:11,CTV CANAL
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08s/index.m3u8
-#EXTINF:-1,Canal 3
+#EXTINF:11,Canal 3
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08l/index.m3u8
-#EXTINF:-1,Canal 7
+#EXTINF:11,Canal 7
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08n/index.m3u8
-#EXTINF:-1,GOLDEN EDGE
+#EXTINF:11,GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08k/index.m3u8
-#EXTINF:-1,Sky 2
-http://190.61.102.67:31589/play/a08q/index.m3u8
-#EXTINF:-1,TELENOVELAS
-http://190.61.102.67:31589/play/a08d/index.m3u8
-#EXTINF:-1,TN23
-http://190.61.102.67:31589/play/a08g/index.m3u8
-#EXTINF:-1,TUDN
+#EXTINF:11,TUDN
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1,Tlnovelas2
-http://190.61.102.67:31589/play/a08r/index.m3u8
-#EXTINF:-1,UNICABLE
+#EXTINF:11,UNICABLE
+#EXTVLCOPT:network-caching=1000
 http://190.61.102.67:31589/play/a08f/index.m3u8
-#EXTINF:-1,canal 13 Guate
-http://190.61.102.67:31589/play/a08p/index.m3u8

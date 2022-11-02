@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:60,live.m3u8
+#EXTVLCOPT:network-caching=1000
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0, tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/11/cbsncaa.jpg" group-title="College Sports",NCAA College Basketball on CBS
+https://sports-events-cedexis.cbsaavideo.com/cbk1/master.m3u8
+#EXTINF:0, tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/11/cbsncaa.jpg" group-title="College Sports",NCAA College Basketball on CBS 2
+https://sports-events-cedexis.cbsaavideo.com/cbk2/master.m3u8
+#EXTINF:0, tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/11/cbsncaa.jpg" group-title="College Sports",NCAA College Basketball on CBS 3
+https://sports-events-cedexis.cbsaavideo.com/cbk3/master.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Nfl_on_nbc_%28metallic%29.jpg" group-title="NFL",NFL on NBC
+http://sprtlive1.akamaized.net/hls/live/586250/nbc-sports0909143029-ua/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ELITvip_YABANCI_TV_KANALLARI", Miami TV HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w123840005_b2592000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ELITvip_YABANCI_TV_KANALLARI", Miami TV Latino HD
+https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w1073933964.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ELITvip_YABANCI_TV_KANALLARI", Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:300,stream.m3u8
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8

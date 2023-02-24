@@ -1,99 +1,16 @@
 #EXTM3U
-#EXTINF:293,Rick and Morty
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Rick and Morty
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:0,A&E
+#EXTINF:-1,Robot Chicken
 #EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01n
-#EXTINF:0,AXN
+http://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1,Samurai Jack
 #EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a007
-#EXTINF:0,AZ Cinema HD
+http://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1,Primal
 #EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01v
-#EXTINF:0,AZ Mundo
+http://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+#EXTINF:-1,Mr. Pickles
 #EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01g
-#EXTINF:0,Clan HD
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a00g
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01f
-#EXTINF:0,Discovery World
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01j
-#EXTINF:0,E!
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01k
-#EXTINF:0,ETC
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a00n
-#EXTINF:0,EXA TV
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01a
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01d
-#EXTINF:0,Fitmaxx
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a014
-#EXTINF:0,Golden Plus
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01r
-#EXTINF:0,Gourmet
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a012
-#EXTINF:0,HBO Xtreme
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01p
-#EXTINF:0,Hispan TV
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a00o
-#EXTINF:0,Lifetime
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01u
-#EXTINF:0,MC
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01c
-#EXTINF:0,MP
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01t
-#EXTINF:0,Rectv
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a00z
-#EXTINF:0,SONY
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a008
-#EXTINF:0,SYFY
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01e
-#EXTINF:0,Star Channel
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01o
-#EXTINF:0,Studios Universal
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a006
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01w
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01x
-#EXTINF:0,TV+ HD
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a00t
-#EXTINF:0,Telemundo
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01i
-#EXTINF:0,UCV
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a00b
-#EXTINF:0,Universal Channel HD
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a01h
-#EXTINF:0,WB
-#EXTVLCOPT:network-caching=1000
-http://45.167.192.49:8000/play/a005
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8

@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1,Rick and Morty
+#EXTINF:293,Rick and Morty
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1,Robot Chicken
+#EXTINF:293,Robot Chicken
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1,Samurai Jack
+#EXTINF:293,Samurai Jack
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1,Primal
+#EXTINF:293,Primal
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
-#EXTINF:-1,Mr. Pickles
+#EXTINF:293,Mr. Pickles
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8

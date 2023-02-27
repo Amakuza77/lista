@@ -35,12 +35,33 @@ https://dangertv-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:60,Fuel TV
 #EXTVLCOPT:network-caching=1000
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:60,Estadium
-#EXTVLCOPT:network-caching=1000
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_0/d1963de91633460e90e338f1fa2f2641/chunklist_ssaiV.m3u8
 #EXTINF:60,AMC
 #EXTVLCOPT:network-caching=1000
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:60,Deal Zone
 #EXTVLCOPT:network-caching=1000
 https://aenetworks-dealzone-1-us-pi.roku.wurl.tv/911f77ac448f25176db86a56d84b9973.m3u8
+#EXTINF:60,TMZ
+#EXTVLCOPT:network-caching=1000
+https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index_1.m3u8
+#EXTINF:60,CGTN
+#EXTVLCOPT:network-caching=1000
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:60,RTL
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+#EXTINF:60,TUDN
+#EXTVLCOPT:network-caching=1000
+https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-0&anvsid=m177635115-n977b86276f7e08e1f1ca249f21fc38de&ts=1677477729&anvtrid=9dd4eb529440f0c1fc7039b515f44276
+#EXTINF:60,BBC America
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_0/chunklist.m3u8
+#EXTINF:60,BBC Antiques
+#EXTVLCOPT:network-caching=1000
+https://bbc-antiquesroadshowuk-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:60,The Movie HUB
+#EXTVLCOPT:network-caching=1000
+https://dje6yassknq8t.cloudfront.net/playlist720p.m3u8
+#EXTINF:60,Tastemade
+#EXTVLCOPT:network-caching=1000
+https://tastemadees16intl-brightcove.amagi.tv/playlist1080p.m3u8

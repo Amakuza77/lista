@@ -11,6 +11,8 @@ http://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1,Primal
 #EXTVLCOPT:network-caching=1000
 http://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV (720p)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1,TLX
 #EXTVLCOPT:network-caching=1000
 https://list.iptvcat.com/my_list/s/0598bb2566a4c82cc100f9c3c46b6a0c.m3u8
@@ -41,18 +43,18 @@ https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:60,Deal Zone
 #EXTVLCOPT:network-caching=1000
 https://aenetworks-dealzone-1-us-pi.roku.wurl.tv/911f77ac448f25176db86a56d84b9973.m3u8
-#EXTINF:60,TMZ
+#EXTINF:60,Smithsonian Channel
 #EXTVLCOPT:network-caching=1000
-https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index_1.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:60,CGTN
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:60,RTL
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
-#EXTINF:60,TUDN
+#EXTINF:60,XITE
 #EXTVLCOPT:network-caching=1000
-https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-0&anvsid=m177635115-n977b86276f7e08e1f1ca249f21fc38de&ts=1677477729&anvtrid=9dd4eb529440f0c1fc7039b515f44276
+https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:60,BBC America
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_0/chunklist.m3u8

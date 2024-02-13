@@ -14,96 +14,54 @@ http://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 #EXTINF:60,Dubai Racing
 #EXTVLCOPT:network-caching=1000
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:90, Red Bull TV 
+#EXTINF:90,RED BULL TV 
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,Fuel TV
+#EXTVLCOPT:network-caching=1000
+https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:60,Trace Sport Stars 
 #EXTVLCOPT:network-caching=1000
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:21599, MAROC SPORTS 
+#EXTINF:21599,Maroc Sports 
 #EXTVLCOPT:network-caching=1000
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:36,Abu Dhabi Sports 1 
-#EXTVLCOPT:network-caching=1000
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:36,Abu Dhabi Sports 2 
-#EXTVLCOPT:network-caching=1000
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:12, Sharjah Sports TV 
+#EXTINF:12,Sharjah Sports TV 
 #EXTVLCOPT:network-caching=1000
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:15, TELETRAK 
+#EXTINF:15,TELETRAK 
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:42,Hipódromo de las Américas 
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
-#EXTINF:16,ATG Tv 
-#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:60,Dubai Sports 2 
 #EXTVLCOPT:network-caching=1000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:0,Edge Sport 
-#EXTVLCOPT:network-caching=1000
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=L5nSDEMpYfzaGH16TF7X
-#EXTINF:60,POPSUGAR Fitness 
-#EXTVLCOPT:network-caching=1000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
-#EXTINF:16,ATG Tv 
-#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTVLCOPT:network-caching=1000
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTVLCOPT:network-caching=1000
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-#EXTVLCOPT:network-caching=1000
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:0, AFIZZIONADOS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
-#EXTINF:54, MVS
+#EXTINF:54,MVS
 #EXTVLCOPT:network-caching=1000
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:60, EURO NEWS
+#EXTINF:60,EURO NEWS
 #EXTVLCOPT:network-caching=1000
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:60, ATV+ PE
+#EXTINF:60,ATV+ PE
 #EXTVLCOPT:network-caching=1000
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:60, TN23
+#EXTINF:60,TN23
 #EXTVLCOPT:network-caching=1000
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-#EXTINF:60, N+
-#EXTVLCOPT:network-caching=1000
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:60, N+ MEDIA
-#EXTVLCOPT:network-caching=1000
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:30, FORO TV
-#EXTVLCOPT:network-caching=1000
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:60, GOLDEN PLUS
+#EXTINF:60,GOLDEN PLUS
 #EXTVLCOPT:network-caching=1000
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:60, VIVO PLAY
+#EXTINF:60,VIVO PLAY
 #EXTVLCOPT:network-caching=1000
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:46, NUESTRA VISION
-#EXTVLCOPT:network-caching=1000
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:60, TIGO SPORTS
 #EXTVLCOPT:network-caching=1000
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:60, REAL MADRID TV
 #EXTVLCOPT:network-caching=1000
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:24, CANAL 57 USA
+#EXTINF:24, CANAL 57 Florida USA
 #EXTVLCOPT:network-caching=1000
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:60, UNIVISION LATAM
-#EXTVLCOPT:network-caching=1000
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:36, RCN EXTRA CO
 #EXTVLCOPT:network-caching=1000
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -113,30 +71,9 @@ https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:67, CANAL 21 CL
 #EXTVLCOPT:network-caching=1000
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
-#EXTINF:80, PINPON TV HD 
-#EXTVLCOPT:network-caching=1000
-https://vdo2.streamgato.us:3613/live/pinpontvlive.m3u8
-#EXTINF:60, CÑÑ
+#EXTINF:60, CNN
 #EXTVLCOPT:network-caching=1000
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-#EXTINF:21, CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:20, TOON TUBERS
-#EXTVLCOPT:network-caching=1000
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:18, CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:24, CANAL 8
-#EXTVLCOPT:network-caching=1000
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-#EXTINF:20, ESPN EXTRA USA
-#EXTVLCOPT:network-caching=1000
-http://170.82.37.21:8000/play/a012/index.m3u8
-#EXTINF:8, Claro Sports
-#EXTVLCOPT:network-caching=1000
-http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:8, Claro Sports 2
 #EXTVLCOPT:network-caching=1000
 http://45.5.117.182:8000/play/a0e5/index.m3u8
@@ -149,775 +86,70 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:25, ITV Deportes 
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:60, Golazo Network 
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:0, CARTOONITO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
-#EXTINF:0, CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
-#EXTINF:0, DK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
-#EXTINF:0, DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
-#EXTINF:0, DISNEY JR
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
-#EXTINF:0, NICK JR
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
-#EXTINF:0, NICK MUSIC
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
-#EXTINF:0, TEEN NICK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
-#EXTINF:0, FORO TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699
-#EXTINF:0, CÑÑ
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
-#EXTINF:0, COMEDY CENTRAL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685
-#EXTINF:0, ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:0, ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
-#EXTINF:0, ESPN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
-#EXTINF:0, FOX SPORTS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
-#EXTINF:0, FOX SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
-#EXTINF:0, AFIZZIONADOS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
-#EXTINF:0, TUDN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
-#EXTINF:0, DAZN F1
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
-#EXTINF:0, BEIN SPORTS Ñ HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:0, BEIN SPORTS ENG HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:0, TVC DEPORTES
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
-#EXTINF:0, BITME
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
-#EXTINF:0, ADULT SWIM
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
-#EXTINF:0, DISTRITO COMEDIA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
-#EXTINF:0, E!
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692
-#EXTINF:0, UNIVERSAL REALTY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
-#EXTINF:0, UNIVERSAL CRIME
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
-#EXTINF:0, UNIVERSAL COMEDY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
-#EXTINF:0, UNIVERSAL TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
-#EXTINF:0, UNIVERSAL PREMIER
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705
-#EXTINF:0, DISCOVERY FAMILIA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
-#EXTINF:0, DISCOVERY FAMILIA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511
-#EXTINF:0, FX
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
-#EXTINF:0, AXN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
-#EXTINF:0, AZTECA CINEMA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
-#EXTINF:0, GOURMET
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
-#EXTINF:0, DPELICULA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507
-#EXTINF:0, PREMIER
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
-#EXTINF:0, HBO 2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
-#EXTINF:0, CINEMAX HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
-#EXTINF:0, HISTORY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
-#EXTINF:0, NATGEO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
-#EXTINF:0, UNICABLE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727
-#EXTINF:0, TLC
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724
-#EXTINF:0, TELEHIT
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653
-#EXTINF:0, TELEHIT MUSICA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/641
-#EXTINF:0, FRANCE 24
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
-#EXTINF:0, 5 USA NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
-#EXTINF:0, A&E ENG HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
-#EXTINF:0, BRAVO ENG
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
-#EXTINF:0, BTN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
-#EXTINF:0, ENTRETAINMENT TELEVISION
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
-#EXTINF:0, COOKING CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
-#EXTINF:0, COZI TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
-#EXTINF:0, FREEFORM
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
-#EXTINF:0, FUSE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/551
-#EXTINF:0, FUSE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/552
-#EXTINF:0, FXM
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
-#EXTINF:0, FXX
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
-#EXTINF:0, FYI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/555
-#EXTINF:0, GALAVISION
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
-#EXTINF:0, GAME SHOW NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/557
-#EXTINF:0, GOL TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
-#EXTINF:0, GOL TV ENG
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/560
-#EXTINF:0, HALLMARK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
-#EXTINF:0, HALLMARK DRAMA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
-#EXTINF:0, HALLMARK MOVIES & MYSTERIES
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/563
-#EXTINF:0, SYFY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
-#EXTINF:0, TNT
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
-#EXTINF:0, USA NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/671
-#EXTINF:0, BBC AME HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
-#EXTINF:0, CARACOL TV HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
-#EXTINF:0, TELEMUNDO 44
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
-#EXTINF:0, TELEMUNDO 48
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
-#EXTINF:0, TELEMUNDO 52
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
-#EXTINF:0, TELEMUNDO 51 MIAMI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
-#EXTINF:0, TELEMUNDO NEWYORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
-#EXTINF:0, UNIVERSO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
-#EXTINF:0, VE PLUS TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
-#EXTINF:0, TUDN USA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
-#EXTINF:0, UNIVISION USA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
-#EXTINF:0, TYC SPORTS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
-#EXTINF:0, UNIMAS HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
-#EXTINF:0, HGTV (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
-#EXTINF:0, HISTORY HD ENG
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:0, DESTINATION AMERICA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
-#EXTINF:0, DISCOVERY FAMILY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
-#EXTINF:0, Investigation Discovery ID
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
-#EXTINF:0, Discovery Channel US
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
-#EXTINF:0, DISCOVERY SCIENCE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
-#EXTINF:0, IFC
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/566
-#EXTINF:0, Lifetime HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
-#EXTINF:0, Lifetime Movie
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
-#EXTINF:0, LONGHORN NET
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569
-#EXTINF:0, MOTOR TREND
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/595
-#EXTINF:0, MSNBC HD ENG
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
-#EXTINF:0, NATGEO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
-#EXTINF:0, NATGEO MUNDO HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
-#EXTINF:0, OWN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
-#EXTINF:0, OXYGEN TRUE CRIME
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
-#EXTINF:0, PEOPLE TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/637
-#EXTINF:0, LA RED TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/639
-#EXTINF:0, REVOLT MUSIC
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
-#EXTINF:0, SMITHSONIAN CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/642
-#EXTINF:0, SONY CINE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643
-#EXTINF:0, MAGNOLIA NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/515
-#EXTINF:0, E! Entertaiment USA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
-#EXTINF:0, FOOD NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
-#EXTINF:0, Animal HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
-#EXTINF:0, Comedy Central HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
-#EXTINF:0, CW HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
-#EXTINF:0, Fox News HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
-#EXTINF:0, PARAMOUNT NETWORK (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
-#EXTINF:0, SUNDANCETV HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
-#EXTINF:0, WHVL HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/763
-#EXTINF:0, COMET TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
-#EXTINF:0, MORBIDOTV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
-#EXTINF:0, AXS TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
-#EXTINF:0, EUROCHANNEL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
-#EXTINF:0, PBS HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
-#EXTINF:0, RAI ITALIA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
-#EXTINF:0, PPV 1
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1183
-#EXTINF:0, PPV 2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1184
-#EXTINF:0, PPV 3
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1185
-#EXTINF:0, DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
-#EXTINF:0, DISNEY JUNIOR
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-#EXTINF:0, DISNEY XD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-#EXTINF:0, NATGEO KIDS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
-#EXTINF:0, Nickelodeon HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
-#EXTINF:0, UNIVERSAL KIDS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
-#EXTINF:0, TRAVEL CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
-#EXTINF:0, MOTOR TREND
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
-#EXTINF:0, VICE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/670
-#EXTINF:0, MTV 2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
-#EXTINF:0, MTV CLASSIC
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
-#EXTINF:0, MTV U
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
-#EXTINF:0, MTV LIVE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
-#EXTINF:0, ABC 7 CHICAGO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
-#EXTINF:0, ABC NEW YORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
-#EXTINF:0, ABC MIAMI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
-#EXTINF:0, CBS 4 MIAMI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
-#EXTINF:0, CBS 11 HOUSTON
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
-#EXTINF:0, CBS 4 TEXAS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
-#EXTINF:0, CBS KPIX
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
-#EXTINF:0, CBS LA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
-#EXTINF:0, CBS MIAMI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
-#EXTINF:0, CBS NEWYORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
-#EXTINF:0, CBSNY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
-#EXTINF:0, CBS SPORTS NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
-#EXTINF:0, CNBC HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
-#EXTINF:0, CNBC US
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
-#EXTINF:0, CBS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/538
-#EXTINF:0, CBS KIRO 7 SEATTLE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/547
-#EXTINF:0, FOX 10
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/524
-#EXTINF:0, FOX 10 XTRA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/530
-#EXTINF:0, FOX 11 LA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
-#EXTINF:0, FOX 32 CHICAGO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
-#EXTINF:0, FOX 47
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535
-#EXTINF:0, FOX 2 DETROIT
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/536
-#EXTINF:0, FOX 32 CHICAGO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/537
-#EXTINF:0, FOX 5 NY
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
-#EXTINF:0, FOX 7 MIAMI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540
-#EXTINF:0, FOX BUSINESS (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/541
-#EXTINF:0, FOX COLLEGE SPORTS CENTRAL 42
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
-#EXTINF:0, FOX 29
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/543
-#EXTINF:0, FOX 13
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/546
-#EXTINF:0, FOX
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
-#EXTINF:0, Fox-Sports-Kansas ???
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
-#EXTINF:0, NBC 4 NEW YORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
-#EXTINF:0, NBC 5 CHICAGO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
-#EXTINF:0, NBC 6 MIAMI
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
-#EXTINF:0, NBC NEWS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/604
-#EXTINF:0, NBCSN  HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-#EXTINF:0, NBC-Kansas
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179
-#EXTINF:0, ELEVEN SPORTS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
-#EXTINF:0, EPIX HITS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
-#EXTINF:0, ESPN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-#EXTINF:0, ESPN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746
-#EXTINF:0, ESPN 2 HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
-#EXTINF:0, GAME
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/522
-#EXTINF:0, B
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/523
-#EXTINF:0, FIGHT NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
-#EXTINF:0, FOX DEPORTES HD
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
-#EXTINF:0, FOX SPORTS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/545
-#EXTINF:0, FS1
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
-#EXTINF:0, FS2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
-#EXTINF:0, NBA HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
-#EXTINF:0, NFL NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
-#EXTINF:0, NFL REDZONE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
-#EXTINF:0, MLB NETWORKS
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
-#EXTINF:0, OLYMPIC CHANNEL  HD (ENG)
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
-#EXTINF:0, OUTDOOR
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
-#EXTINF:0, OUTSIDE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/626
-#EXTINF:0, PAC 12
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/629
-#EXTINF:0, FS1 CFB
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/630
-#EXTINF:0, PAC 12 BAYAREA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/631
-#EXTINF:0, PAC 12 LOSANGELES
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/632
-#EXTINF:0, PAC 12 MOUNTAIN
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/633
-#EXTINF:0, PAC 12 NETWORK
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/634
-#EXTINF:0, PAC 12 OREGON
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/635
-#EXTINF:0, PAC 12 WASHINGTON
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/636
-#EXTINF:0, NBC SPORTS BAY AREA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
-#EXTINF:0, NBC SPORTS BOSTON
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
-#EXTINF:0, NBC SPORTS CALIFORNIA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
-#EXTINF:0, NBC SPORTS CHICAGO
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
-#EXTINF:0, NBC SPORTS PHILADELPHIA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
-#EXTINF:0, NBC SPORTS WASHINGTON
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
-#EXTINF:0, SPORTSMAN CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
-#EXTINF:0, REDBULL TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
-#EXTINF:0, UFC USA
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
-#EXTINF:0, ESPN Deportes
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
-#EXTINF:0, ESPN U
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
-#EXTINF:0, ESPN News
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
-#EXTINF:0, ESPN GOAL LINE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
-#EXTINF:0, NFL GAMEPASS 01
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
-#EXTINF:0, NFL GAMEPASS REDZONE
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
-#EXTINF:0, NBA-11
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
-#EXTINF:0, NBA-10
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133
-#EXTINF:0, NBA-8
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135
-#EXTINF:0, NBA-7
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136
-#EXTINF:0, NBA-6
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137
-#EXTINF:0, NBA-5
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138
-#EXTINF:0, NBA-4
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139
-#EXTINF:0, NBA-3
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140
-#EXTINF:0, NBA-2
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
-#EXTINF:0, NBA-1
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
-#EXTINF:0, NHL-2 ???? AXS TV
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
-#EXTINF:0, NHL-1
-#EXTVLCOPT:network-caching=1000
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
-#EXTINF:28, AGU: Canal 26
+#EXTINF:28, Aguascalientes Canal 26
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:40, GDL: Canal 4
+#EXTINF:40, Guadalajara Canal 4
 #EXTVLCOPT:network-caching=1000
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
-#EXTINF:28, CHP: Canal 10
+#EXTINF:28, Chiapas Canal 10
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:23, GTO: Canal 13 Bajío (720p) [Not 24/7]
+#EXTINF:23, Guanajuato Canal 13 Bajío
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, CAM: Canal 13 Campeche (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, CHP: Canal 13 Chiapas (720p) [Not 24/7]
+#EXTINF:0, Argertina Canal 13
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, MICH: Canal 13 Michoacán (720p) [Not 24/7]
+#EXTINF:0, Argertina Canal 13-2
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, OAX: Canal 13 Oaxaca (720p) [Not 24/7]
+#EXTINF:0, Oaxaca TV
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13oaxaca/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, PUE: Canal 13 Puebla (720p) [Not 24/7]
+#EXTINF:0, Puebla TV
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, TAB: Canal 13 Tabasco (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, CHP: Canal 13 Tapachula (720p) [Not 24/7]
+#EXTINF:0, Chiapas TV
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13tapachula/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0, YUC: Canal 13 Yucatán (720p) [Not 24/7]
+#EXTINF:0, Yucatan TV
 #EXTVLCOPT:network-caching=1000
 https://dbdfj5y8nz2u4.cloudfront.net/c13yucatan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:32, CHH: CANAL 44
+#EXTINF:32, Chihuahua CANAL 44
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:30, COA: 15TV Sabinas
+#EXTINF:30, Coahuila CANAL 15 Sabinas
 #EXTVLCOPT:network-caching=1000
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:30, GTO: TV Cuatro 4.1 Noticias
+#EXTINF:30, Guanajuato TV 4.1 Noticias
 #EXTVLCOPT:network-caching=1000
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:0, GTO: TV Cuatro 4.2 Cultura
+#EXTINF:0, Guanajuato TV 4.2 Cultura
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:0, GTO: TV Cuatro 4.3 Deportes
-#EXTVLCOPT:network-caching=1000
-https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
-#EXTINF:0, GTO: TV Guanajuato (720p)
-#EXTVLCOPT:network-caching=1000
-https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
-#EXTINF:0, JAL: Jalisco TV
+#EXTINF:0, Jalisco TV
 #EXTVLCOPT:network-caching=1000
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:0, MIC: Canal 13 Michoacan
+#EXTINF:0, BRAZI TV
 #EXTVLCOPT:network-caching=1000
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0, PUE: Canal 16.1
+#EXTINF:0, Puebla Canal 16.1
 #EXTVLCOPT:network-caching=1000
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
-#EXTINF:0, PUE: Canal 16.2
+#EXTINF:0, Puebla Canal 16.2
 #EXTVLCOPT:network-caching=1000
 https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:0, PUE: Canal 26.1
+#EXTINF:0, Puebla Canal 26.1
 #EXTVLCOPT:network-caching=1000
 http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
-#EXTINF:0, PUE: Canal 26.2
+#EXTINF:0, Puebla Canal 26.2
 #EXTVLCOPT:network-caching=1000
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
-#EXTINF:0,  - QUE: RTQ Queretaro
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:0, ROO: Canal 10 Cancun
+#EXTINF:0, Cancun TV Canal 10
 #EXTVLCOPT:network-caching=1000
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:0, SLP: Nueve TV
+#EXTINF:0, San Luis Potosi TV Canal 9
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:0, SIN: TVP Mazatlan
@@ -926,15 +158,9 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:0, SIN: TVP Culiacan
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:0, SIN: TVP Los Mochis
+#EXTINF:0, TVP Los Mochis
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
-#EXTINF:0, SON: TVP Cd. Obregon
-#EXTVLCOPT:network-caching=1000
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:0, SON: Telemax Sonora
-#EXTVLCOPT:network-caching=1000
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:23, TLA: Tlaxcala Television
 #EXTVLCOPT:network-caching=1000
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
@@ -944,42 +170,24 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:0, YUC: Teleplay Merida
 #EXTVLCOPT:network-caching=1000
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:0, ZAC: Canal 24 Zacatecas
-#EXTVLCOPT:network-caching=1000
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:26, MX AMX Noticias
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:0,CHIH: Canal 50.1 Juárez (XEJ-TDT) (614p)
-#EXTVLCOPT:network-caching=1000
-https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
 #EXTINF:60,Canal Ocho TV (1080p)
 #EXTVLCOPT:network-caching=1000
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:29, MOR: IMRyT (720p)
-#EXTVLCOPT:network-caching=1000
-https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 #EXTINF:32, MX: Mexiquense TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:0,Monte Maria (1080p)
-#EXTVLCOPT:network-caching=1000
-https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
 #EXTINF:0,Noticias Canal 10 (360p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:0,NRT México Canal 4 (720p)
-#EXTVLCOPT:network-caching=1000
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:0, SLP: Nueve TV San Luís Potosí (720p)
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:0, COA: RCG TV (1080p)
 #EXTVLCOPT:network-caching=1000
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:0,QRO: RTQ Querétaro (360p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:0, ZAC: SIZART Canal 24 (1080p)
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
@@ -1001,12 +209,6 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 #EXTINF:0,Tlaxcala Televisión (360p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
-#EXTINF:0,TRC Televisión (720p)
-#EXTVLCOPT:network-caching=1000
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:0,TV Azteca Noroeste (Monterrey) (720p)
-#EXTVLCOPT:network-caching=1000
-https://live.info7.mx/info7/stream.m3u8
 #EXTINF:0,TV Mar La Paz (1080p)
 #EXTVLCOPT:network-caching=1000
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
@@ -1031,297 +233,27 @@ https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 #EXTINF:0,Ultra TV Puebla (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:0,XHKG TV Nayarit (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
-#EXTINF:0, cinema 00
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
-#EXTINF:0, cinema  01
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
-#EXTINF:0, cinema 02
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
-#EXTINF:0, cinema 03
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
-#EXTINF:0, cinema 04
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
-#EXTINF:0, cinema 05
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
-#EXTINF:0, cinema 06
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
-#EXTINF:0, cinema 07
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
-#EXTINF:0, cinema 08
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
-#EXTINF:0,COL| Cablenoticias
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
-#EXTINF:0,COL| Canal Uno
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
-#EXTINF:0,COL| CARACOL
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
-#EXTINF:0,COL| CARACOL opc2
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
-#EXTINF:0,COL| Caracol Internacional
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120
-#EXTINF:0,COL| CITY TV
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275
-#EXTINF:0,COL| NTN24
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
-#EXTINF:0,COL| RCN
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192
-#EXTINF:0,COL| RCN opc2
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121
-#EXTINF:0,COL| RCN opc3
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJkD-9dBuk0s2k0Pmn1RIOc
-#EXTINF:0,COL| Señal Colombia
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811
-#EXTINF:0,COL| TeleAntioquia
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801
 #EXTINF:0,COL| cali tv
 #EXTVLCOPT:network-caching=1000
 https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91
-#EXTINF:0,COL| TeleCaribe
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/43625
-#EXTINF:0,COL| Tele-pacifico
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693
-#EXTINF:0,COL| tv agro
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137
-#EXTINF:0,COL| telecafe
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810
-#EXTINF:0,COL| cosmovision
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/150372
-#EXTINF:0,COL| canal trece
-#EXTVLCOPT:network-caching=1000
-https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
 #EXTINF:0,COL| Eureka
 #EXTVLCOPT:network-caching=1000
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:0,CINE| HBO
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
-#EXTINF:0,CINE| HBO +
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
-#EXTINF:0,CINE| HBO Family
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
-#EXTINF:0,CINE| HBO Xtreme
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
-#EXTINF:0,CINE| HBO Mundi
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
-#EXTINF:0,CINE| HBO POP
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
-#EXTINF:0,CINE| HBO signature
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
-#EXTINF:0,CINE| Cinecanal
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/36
-#EXTINF:0,CINE| Cine Latino
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
-#EXTINF:0,CINE| Cinemax
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
-#EXTINF:0,CINE| Claro Cinema
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
-#EXTINF:0,CINE| De Pelicula Clásico
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/140039
-#EXTINF:0,CINE| DHE
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
-#EXTINF:0,CINE| Golden EDGE
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/85
-#EXTINF:0,CINE| Golden Premier
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/245
-#EXTINF:0,CINE| Golden
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/244
-#EXTINF:0,CINE| Golden Plus
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/86
-#EXTINF:0,CINE| Space
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/113
-#EXTINF:0,CINE| universal channel
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHEocrZghRUsgEdfMCdx0PzA
-#EXTINF:0,CINE| universal cinema
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIQRxBYMBDsAYCSlYBFO_r4
-#EXTINF:0,CINE| universal reality
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHExvfJduc1WfdWeSwoqNflw
 #EXTINF:0,CINE| universal premier
 #EXTVLCOPT:network-caching=1000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
-#EXTINF:0,CINE| Paramount+
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0,CINE| amc
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/16
-#EXTINF:0,CINE| A&E
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/6
-#EXTINF:0,CINE| START CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/36282
-#EXTINF:0,CINE| AXN
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/19
-#EXTINF:0,CINE| FX
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/80
-#EXTINF:0,CINE| WARNER
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/366
-#EXTINF:0,CINE| TCM
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/120
-#EXTINF:0,CINE| TNT
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/243
-#EXTINF:0,CINE| TNT SERIES
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/365
-#EXTINF:0,CINE| SYFY
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
-#EXTINF:0,CINE| CINEMA DINAMITA
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
-#EXTINF:0,CINE| I-SAT
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
-#EXTINF:0,CINE| SONY
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
-#EXTINF:0,CINE| EUROPA EUROPA
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
-#EXTINF:0,CINE| tu cine
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
 #EXTINF:0,CINE| fmtv fusion
 #EXTVLCOPT:network-caching=1000
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:0,CINE| lifetime
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
-#EXTINF:0,CINE| SUNDANCE TV
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
-#EXTINF:0,CINE| MORBID TV
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
-#EXTINF:0,CINE| CINE ESTELAR
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
-#EXTINF:0,CUL| Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/17
-#EXTINF:0,CUL| Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155807
 #EXTINF:0,CUL| Discovery Familia
 #EXTVLCOPT:network-caching=1000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
-#EXTINF:0,CUL| Discovery. H&H
-#EXTVLCOPT:network-caching=1000
-http://gotv.vip:8880/Angel2023/Angel2023/46
-#EXTINF:0,CUL| Discovery Investigation
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123
-#EXTINF:0,CUL| Discovery SCI
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818
-#EXTINF:0,CUL| Discovery Theater
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPEku5J9aTY-q9TQjwvCLkM
-#EXTINF:0,CUL| Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHMK9XTfxq78PuM2mEx2W0PU
-#EXTINF:0,CUL| Discovery World
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155812
-#EXTINF:0,CUL| El Gourmet
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJLaiSMKpcSRkr-Aye3mirA
-#EXTINF:0,CUL| History Channel
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804
-#EXTINF:0,CUL| History Channel 2
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIIjE2M4NdeKzMAtqcMb2vs
-#EXTINF:0,CUL| HGTV
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823
-#EXTINF:0,CUL| Nat Geo
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHDATw_R1qBQM71MuRvu0j20
-#EXTINF:0,CUL| TLC
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHGy2ExMaLDi7Nz6qAwjAl_g
-#EXTINF:0,CUL| Cocina TV
-#EXTVLCOPT:network-caching=1000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
-#EXTINF:0,NOV| AZ CORAZON
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHLpKS9hqy-Ol-EoI3zmF-cI
-#EXTINF:0,NOV| PASIONES
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2010
-#EXTINF:0,NOV| TLNOVELAS
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2031
-#EXTINF:0,NOV| TL NOVELAS UNIVISION
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2038
 #EXTINF:0,NOV| RCN Novelas
 #EXTVLCOPT:network-caching=1000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
-#EXTINF:0,INF| CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4063
 #EXTINF:30,INF| latino kids
 #EXTVLCOPT:network-caching=1000
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
-#EXTINF:48,MUS| circuito pop
-#EXTVLCOPT:network-caching=1000
-https://cdapop.streaming.ws:443/circuitopoptv/live/chunklist_w1072026756.m3u8
 #EXTINF:60,MUS| hits 360
 #EXTVLCOPT:network-caching=1000
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
@@ -1334,21 +266,12 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:66,MUS| tele musica
 #EXTVLCOPT:network-caching=1000
 https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:78,CR| TELESISTEMA
-#EXTVLCOPT:network-caching=1000
-https://video20.klm99.com:3621/hybrid/play.m3u8
-#EXTINF:0,CR| Tele red
-#EXTVLCOPT:network-caching=1000
-https://video20.klm99.com:3558/hybrid/play.m3u8
 #EXTINF:0,CR| CANAL 1
 #EXTVLCOPT:network-caching=1000
 https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:0,CR| coto brus tv
 #EXTVLCOPT:network-caching=1000
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-#EXTINF:0,CR| costa rica channel
-#EXTVLCOPT:network-caching=1000
-https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
 #EXTINF:0,CR| teve norte
 #EXTVLCOPT:network-caching=1000
 https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8
@@ -1373,60 +296,4 @@ https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u
 #EXTINF:0,TELEMUNDO
 #EXTVLCOPT:network-caching=1000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBaGok1oX_0n3gxWAHVpjUw
-#EXTINF:0,TELEMUNDO Philadelphia
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/148724
-#EXTINF:0,UNIMAS Philadelphia
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/148895
-#EXTINF:0,UNIVISION NEW-YORK
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/148711
-#EXTINF:0,UNIVISION Philadelphia
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/148725
-#EXTINF:0,COL |  WIN SPORTS
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
-#EXTINF:0,COL |  WIN SPORTS opc 2
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
-#EXTINF:0,COL |  WIN SPORTS opc 3
-#EXTVLCOPT:network-caching=1000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIpr75HhVZVzwCHA_MYaUCI
-#EXTINF:0,COL | WIN SPORT+
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
-#EXTINF:0,COL | WIN SPORT+ opc 2
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
-#EXTINF:0,COL | WIN SPORT+ opc 3
-#EXTVLCOPT:network-caching=1000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
-#EXTINF:0,AR | ESPN SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1915
-#EXTINF:0,AR | ESPN SPORT 2
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1917
-#EXTINF:0,AR | ESPN SPORT 3
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1919
-#EXTINF:0,AR | ESPN SPORTS 4
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1921
-#EXTINF:0,AR | DIREC TV SPORTS
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1912
-#EXTINF:0,AR | DIREC TV DEPORTES 2
-#EXTVLCOPT:network-caching=1000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1913
-#EXTINF:0,STAR + opc1
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/160068
-#EXTINF:0,STAR + opc2
-#EXTVLCOPT:network-caching=1000
 http://magmas5.com:8000/Oscar86/40473/160071
-#EXTINF:0,STAR + opc3
-#EXTVLCOPT:network-caching=1000
-http://magmas5.com:8000/Oscar86/40473/152908

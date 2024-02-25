@@ -345,3 +345,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
 #EXTINF:-1  group-title="Bics Extra", US: ESPN 1 VIP HD
 http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/1CftDPB.png",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/79hrcx8.png",bitMe (576p)
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
